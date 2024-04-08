@@ -1,0 +1,28 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+venv*/
+.venv
+.venv/
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables file
+# .env
+
+# Dependency directories
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store

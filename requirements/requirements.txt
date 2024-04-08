@@ -1,0 +1,5 @@
+gunicorn
+uvicorn
+vosk
+argostranslate
+fastapi[all]
